@@ -2,3 +2,5 @@
 scarf_datasets
 .ipynb_checkpoints/
 sync_with_docs.sh
+dev
+test.csv
